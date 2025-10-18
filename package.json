@@ -1,0 +1,12 @@
+{
+  "name": "jenkins-docker-pipeline",
+  "version": "1.0.0",
+  "description": "Jenkins CI/CD pipeline project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
